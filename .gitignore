@@ -5,3 +5,4 @@ HumanInTheLoop/
 PromptWorkflow/
 RAG/
 Streaming/
+.env/
